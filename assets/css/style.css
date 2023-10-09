@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color:cadetblue ;
+    font-size: 22px;
+    padding: 10px;
+    margin: 20px;
+}
+input{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 13px;
+}
+.btn{
+    background-color: crimson;
+    color: beige;
+    
+}
+.bttn{
+    background: yellow;
+    
+}
